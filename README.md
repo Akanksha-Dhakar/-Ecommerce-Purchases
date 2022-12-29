@@ -1,2 +1,2 @@
-# -Ecommerce-Purchases
+# Ecommerce-Purchases
 Data Analysis
